@@ -2487,6 +2487,7 @@
 		color: rgba(255, 255, 255, 0.5);
 		left: 0;
 		height: auto;
+		min-height: 100%
 		padding: 8em 4em;
 		position: fixed;
 		text-align: right;
