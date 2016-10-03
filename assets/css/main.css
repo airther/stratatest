@@ -2500,13 +2500,14 @@
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
 			width: 100%;
+			height: auto;
 		}
 
 		#header > .inner {
-			-moz-flex-grow: 0;
-			-webkit-flex-grow: 0;
-			-ms-flex-grow: 0;
-			flex-grow: 0;
+			-moz-flex-grow: 1;
+			-webkit-flex-grow: 1;
+			-ms-flex-grow: 1;
+			flex-grow: 1;
 			margin: 0 0 2em 0;
 		}
 
