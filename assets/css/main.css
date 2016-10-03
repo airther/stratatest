@@ -2488,7 +2488,7 @@
 		left: 0;
 		height: auto;
 		padding: 8em 4em;
-		position: auto;
+		position: fixed;
 		text-align: right;
 		top: 0;
 		width: 100%;
