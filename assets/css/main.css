@@ -2953,7 +2953,7 @@
 				background-size: auto,							cover;
 				bottom: auto;
 				left: auto;
-				position: relative;
+				position: fixed;
 				text-align: center;
 				width: 100%;
 			}
