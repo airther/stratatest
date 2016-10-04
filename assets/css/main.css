@@ -2926,10 +2926,10 @@
 			#header {
 				background-attachment: scroll;
 				background-position: top left, center center;
-				background-size: cover,		cover;
+				background-size: auto,		cover;
 				left: auto;
 				padding: 6em 4em;
-				position: relative;
+				position: fixed;
 				text-align: center;
 				top: auto;
 				width: 100%;
