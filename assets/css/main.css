@@ -2486,7 +2486,7 @@
 		background-size: 100%,								auto 125%;
 		color: rgba(255, 255, 255, 0.5);
 		left: 0;
-		height: auto;
+		height: 100%;
 		padding: 8em 4em;
 		position: fixed;
 		text-align: right;
